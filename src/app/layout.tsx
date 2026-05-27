@@ -2,7 +2,7 @@ import "./globals.css";
 
 export const metadata = {
   title: "Maria Clara Carvalho",
-  description: "Front-End Developer",
+  description: "Full Stack Developer",
 };
 
 export default function RootLayout({
