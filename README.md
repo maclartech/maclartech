@@ -1,1 +1,1 @@
-Sorry
+Desenvolvo projetos unindo bases técnicas consolidadas do mercado a diagnósticos personalizados, evoluindo conceitos de tutoriais para soluções que refletem minha própria lógica de arquitetura e resolução de problemas.
